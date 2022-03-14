@@ -1,0 +1,74 @@
+.card {
+    padding: 20px;
+    border-radius: 30px;
+    background-color: #c06a30;
+}
+
+h5, p {
+    color: white;
+}
+
+.fondo-item {
+    background-color: #EDC68F;
+    border-radius: 20px;
+    height: 100%;
+}
+
+.alturaCaja {
+    height: 160px;
+}
+.row {
+    padding: 10px;
+}
+
+.sexo {
+    color: white;
+    font-size: 40px;
+}
+
+.contenedor {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    flex-direction: column;
+}
+
+.estiloNumero {
+    font-size: 32px;
+    font-weight: 800;
+    margin-top: -30px;
+    color: white;
+}
+.cm {
+    font-size: 16px;
+    font-weight: 400;
+    margin-left: -10px;
+}
+
+.custom-range {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+input[type=range]::-webkit-slider-thumb {
+    background: #EDC68F;
+}
+.sumaResta {
+    color: white;
+    cursor: pointer;
+    font-size: 20x;
+    background-color: #EDC68F;
+    padding: 7px;
+    border-radius: 15px;
+    margin-left: 3px;
+}
+
+.btn-color {
+     
+    border-color: #EDC68F;
+    border-radius: 25px;
+}
+
+.sexoDesactivo {
+    background-color: #EDC68F;
+}
